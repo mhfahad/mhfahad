@@ -12,11 +12,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+I am a programmer with 4 to 5 years of experience in the job market, specifically in developing ERP systems and manufacturing software for companies in the Food & Beverage and Footwear industries. I also have experience in developing CMS or management systems such as project management and shop management, as well as E-commerce sites using various technologies such as ASP.NET MVC, ASP.NET Core, JavaScript, jQuery, Razor View Pages, ASP Web Forms, SQL Server, and Firebase.
 
+My skills include proficiency in programming languages such as C#, ASP.NET, .NET Core, Visual Basic, and basic knowledge of Python. I am also experienced in using frameworks and libraries like Entity Framework, Entity Framework Core, and ADO.NET. I have knowledge of software architecture patterns such as Layered Architecture with Dependency Injection and the Model-View-Controller (MVC) pattern.
+
+In terms of front-end development, I am skilled in web design using HTML5, CSS3, and Bootstrap, and JavaScript libraries like jQuery, Ajax, A-Frame, and Three JS. I also have experience in developing desktop software using C# and Electron JS.
+
+My knowledge of databases includes working with SQL Server 2014/15 and using stored procedures, views, and functions. I also have experience in preventing SQL Injection and Cross-Site Scripting (XSS) attacks.
+
+For reporting purposes, I am proficient in using RDLC and HTML. I have experience in using Agile and Waterfall software development methodologies and versioning tools such as Git and Trello for managing team projects.
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
